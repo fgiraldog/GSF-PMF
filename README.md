@@ -1,5 +1,5 @@
-# GSF-PMF
+## Gaussian Mixture-Based Point Mass Filtering
 
-This repository presents the code used to obbtain the results in the paper: "Gaussian Mixture-Based Point Mass Filtering with Applications to Terrain-Relative Navigation".
+This repository contains the code used to obtain the results presented in the paper: "Gaussian Mixture-Based Point Mass Filtering with Applications to Terrain-Relative Navigation."
 
-If you are using the code, please cite the paper DOI:TBD.
+If you use this code, please cite the paper: DOI: TBD.
