@@ -2,4 +2,4 @@
 
 This repository contains the code used to obtain the results presented in the paper: "Gaussian Mixture-Based Point Mass Filtering with Applications to Terrain-Relative Navigation."
 
-If you use this code, please cite the paper: DOI: TBD.
+If you use this code, please cite the paper: DOI: 10.1109/TAES.2025.3532229.
